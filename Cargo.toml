@@ -6,3 +6,9 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+bardecoder = "0.5.0"
+image = "0.24.8"
+num_cpus = "1.16.0"
+qrcode-generator = "4.1.9"
+rayon = "1.8.1"
+rxing = "0.5.7"
